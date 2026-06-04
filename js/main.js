@@ -6,7 +6,7 @@
   'use strict';
 
   // Current language
-  let currentLang = 'zh';
+  let currentLang = 'en';
 
   // === Language Switching ===
   function setLanguage(lang) {

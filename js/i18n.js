@@ -108,10 +108,9 @@ const i18n = {
     'cases.case3.desc': '帮助日本企业引入中国开发的库存管理系统，完成日语本地化与中日数据合规适配。',
 
     'contact.title': '联系我们',
-    'contact.wechat': '微信',
-    'contact.email': '邮箱',
-    'contact.lang': '语言',
-    'contact.langVal': '中文 / English / 日本語',
+    'contact.wechat': 'WeChat',
+    'contact.email': '客服邮箱',
+    'contact.xiaohongshu': '小红书',
   },
 
   en: {
@@ -221,8 +220,7 @@ const i18n = {
     'contact.title': 'Contact Us',
     'contact.wechat': 'WeChat',
     'contact.email': 'Email',
-    'contact.lang': 'Languages',
-    'contact.langVal': '中文 / English / 日本語',
+    'contact.xiaohongshu': 'Xiaohongshu',
   },
 
   ja: {
@@ -332,7 +330,6 @@ const i18n = {
     'contact.title': 'お問い合わせ',
     'contact.wechat': 'WeChat',
     'contact.email': 'メール',
-    'contact.lang': '言語',
-    'contact.langVal': '中文 / English / 日本語',
+    'contact.xiaohongshu': 'RED（小紅書）',
   }
 };
